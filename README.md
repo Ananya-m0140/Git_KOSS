@@ -101,7 +101,7 @@ Use this space to show useful examples of how this project can be used. Addition
 
 <div align="center">
   <a href="https://github.com/metakgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
+    <img width="80%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
   </a>
 </div>
 
