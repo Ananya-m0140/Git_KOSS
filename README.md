@@ -33,12 +33,9 @@ The presentation link is given below:
 
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Without Docker](#without-docker)
+  - [using docker](#using-docker)
 - [Usage](#usage)
-- [Development Notes](#development-notes)
-  - [Updates To Be Made Each Sem](#updates-to-be-made-each-sem)
-- [Contributing](#contributing)
 - [Maintainer(s)](#maintainers)
 
 </details>
@@ -57,46 +54,47 @@ You can find the container image [here](https://hub.docker.com/repository/docker
 
 ## (Without Docker)
 
+
 ### 1. Install virtual environment module
 ```shell
-pip install virtualenv
+    pip install virtualenv
 ```
 
 ### 2. Create a virtual environment (say env) 
 ```shell
-python -m venv env
+    python -m venv env
 ```
 
 ### 3. Activate the virtual environment 
   ```shell
-  source env/bin/activate
+      source env/bin/activate
   ```
 
 ### 4. Install Dependencies 
   ```shell
-  pip install -r requirements.txt
+      pip install -r requirements.txt
   ```
 
 ### 5. Run the following code on your terminal:
   ```shell
-  streamlit run app.py
+      streamlit run app.py
   ```
 
 ## Using Docker
 
 ### 1. Pull the Docker image
 ```shell
-docker pull spookbite/kronosv2:latest
+    docker pull spookbite/kronosv2:latest
 ```
 
 ### 2. Run the container
 ```shell
-docker run -p 8501:8501 spookbite/kronosv2
+    docker run -p 8501:8501 spookbite/kronosv2
 ```
 
 You can change the {PORT}:8501 to your desired PORT.
 
-## Usage
+# Usage
 <!-- UPDATE -->
 Following is an example how this project works with streamlit.
 
@@ -105,18 +103,15 @@ Following is an example how this project works with streamlit.
     <img width="90%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
     </a>
   <a href="https://github.com/metakgp/PROJECT_NAME">
-    <img width="90%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/6e580714-c483-4b82-aa16-fc2ed5b398d2">
+    <img width="90%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/f08c7a0a-1fd3-4c11-ab13-92bc120fea7f">
 
   </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/metakgp/gyft/blob/master/CONTRIBUTING.md) guide to know more.
-
-## Maintainer(s)
+# Maintainer(s)
 
 - [Arpit Bhardwaj](https://github.com/proffapt)
 
@@ -135,7 +130,7 @@ Please read [CONTRIBUTING.md](https://github.com/metakgp/gyft/blob/master/CONTRI
 [wiki-shield]: https://custom-icon-badges.demolab.com/badge/metakgp_wiki-grey?logo=metakgp_logo&style=for-the-badge
 [wiki-url]: https://wiki.metakgp.org
 
-## Contact
+# Contact
 
 <p>
 📫 Metakgp -
