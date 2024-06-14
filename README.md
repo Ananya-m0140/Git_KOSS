@@ -16,7 +16,7 @@ The presentation link is given below:
 <br />
 <div align="center">
   <!-- <a href="https://github.com/metakgp/gyft">
-    <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
+    <img width="140" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
   </a> -->
 
   <h1 align="center">kronos2.0</h1>
