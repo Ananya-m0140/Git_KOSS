@@ -53,7 +53,7 @@ You can go [here](https://kronos.streamlit.app/) for the live version of the pro
 
 You can find the container image [here](https://hub.docker.com/repository/docker/spookbite/kronosv2).
 
-# Setup 
+# Getting started
 
 ## (Without Docker)
 
@@ -98,14 +98,14 @@ You can change the {PORT}:8501 to your desired PORT.
 
 ## Usage
 <!-- UPDATE -->
-Use this space to show useful examples of how this project can be used. Additional screenshots, code examples and demos work well in this space.
+Following is an example how this project works with streamlit.
 
 <div align="center">
   <a href="https://github.com/metakgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
+    <img width="90%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
     </a>
   <a href="https://github.com/metakgp/PROJECT_NAME">
-    <img width="80%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/ef01c3d2-3944-4269-bce8-731fa39c2a12">
+    <img width="90%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/6e580714-c483-4b82-aa16-fc2ed5b398d2">
 
   </a>
 </div>
