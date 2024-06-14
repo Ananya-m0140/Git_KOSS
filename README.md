@@ -17,6 +17,7 @@ The presentation link is given below:
 <div align="center">
   <!-- <a href="https://github.com/metakgp/gyft">
     <img width="140" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
+    <img width="140" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/ef01c3d2-3944-4269-bce8-731fa39c2a12">
   </a> -->
 
   <h1 align="center">kronos2.0</h1>
@@ -102,6 +103,10 @@ Use this space to show useful examples of how this project can be used. Addition
 <div align="center">
   <a href="https://github.com/metakgp/PROJECT_NAME">
     <img width="80%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/37b7a1cf-0956-4545-9f31-6c45cc08b978">
+    </a>
+  <a href="https://github.com/metakgp/PROJECT_NAME">
+    <img width="80%" alt="image" src="https://github.com/Ananya-m0140/Git_KOSS/assets/153496011/ef01c3d2-3944-4269-bce8-731fa39c2a12">
+
   </a>
 </div>
 
